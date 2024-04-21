@@ -1,6 +1,6 @@
 # 🆘 mkHelpers
 
-## ℹ📄 Description
+## 📄 Description
 
 ```mkHelpers``` is simple helpers library for *Google Apps Scripts*; it provides simple functions to speed up development of simple Google Apps Scripts projects
 
