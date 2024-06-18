@@ -11,7 +11,6 @@
  */
 
 
-
 /**
  * https://stackoverflow.com/a/22917499/1027723
  * for pretty version see https://hawksey.info/blog/2018/02/google-apps-script-patterns-using-the-destructuring-assignment-syntax-and-object-arrays-to-process-google-sheet-rows/#comment-184945
